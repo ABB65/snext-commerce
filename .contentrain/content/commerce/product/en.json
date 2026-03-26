@@ -22,10 +22,19 @@
     "summary": "Technical outerwear with a sharper editorial presentation."
   },
   "f7a2b3c4d5e6": {
-    "name": "New Product",
-    "price_label": "$0.00",
-    "slug": "new-product-2024",
-    "summary": "A new product entry"
+    "badge": "Sports",
+    "description": "Experience superior comfort and performance with our professional-grade running shoes. Engineered with advanced cushioning technology and breathable materials for maximum support during your workouts.",
+    "highlights": [
+      "Lightweight design",
+      "Premium cushioning",
+      "Breathable mesh upper",
+      "Durable rubber sole"
+    ],
+    "image_alt": "Professional sports running shoes with cushioned sole",
+    "name": "Professional Running Shoes",
+    "price_label": "$129.99",
+    "slug": "professional-running-shoes",
+    "summary": "High-performance sports running shoes designed for comfort and durability during intense athletic activities."
   },
   "field-notes-hoodie": {
     "badge": "Limited",
